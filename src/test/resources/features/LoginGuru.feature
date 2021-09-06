@@ -6,7 +6,5 @@ Feature: Login en Guru99
   Scenario: Login
     Given Deseo logearme a Guru
     When Ingreso con usuario y contrasenia
-      | user       | password  |
-      | mngr347268 | gErEhYv |
-    Then Verifico el usuario
-      | mngr111111 |
+      | user       | password |
+      | mngr347268 | gErEhYv  |
