@@ -9,4 +9,4 @@ Feature: Login en Guru99
       | user       | password  |
       | mngr347268 | gErEhYv |
     Then Verifico el usuario
-      | mngr111111 |
+      | mngr |
